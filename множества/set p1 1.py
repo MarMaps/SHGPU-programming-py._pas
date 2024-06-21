@@ -1,0 +1,5 @@
+Y = set(input())
+Z = set(input())
+print(Y & Z)
+print (Y | Z)
+print(Y - Z)
